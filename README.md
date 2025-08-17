@@ -19,7 +19,7 @@ Built with **HTML, CSS, and JavaScript**.
 ## 📸 Project UI
 Here is a preview of the Weather Dashboard:
 
-![Weather Dashboard Screenshot](Project UI.png)
+![Weather Dashboard Screenshot](ProjectUI.png)
 
 
 
