@@ -20,7 +20,7 @@ Built with **HTML, CSS, and JavaScript**.
 ## 📷 Screenshots
 Here’s how the Weather Tracker UI looks:
 
-![Weather Dashboard Screenshot](weather dashboard preview.png)
+![Weather Dashboard Screenshot](WEATHERDASHBOARD-PREIEW.png)
 
 
 
