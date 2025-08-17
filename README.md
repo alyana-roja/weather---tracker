@@ -15,3 +15,14 @@ Built with **HTML, CSS, and JavaScript**.
 - **JavaScript (Vanilla JS)** – Functionality  
 - **OpenWeather API** – Real-time weather data  
 
+---
+
+## 📷 Screenshots
+Here’s how the Weather Tracker UI looks:
+
+![Weather Dashboard Screenshot](weather dashboard preview.png)
+
+
+
+
+
