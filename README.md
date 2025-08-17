@@ -16,7 +16,10 @@ Built with **HTML, CSS, and JavaScript**.
 - **OpenWeather API** – Real-time weather data  
 
 ---
+## 📸 Project UI
+Here is a preview of the Weather Dashboard:
 
+![Weather Dashboard Screenshot](Project UI.png)
 
 
 
